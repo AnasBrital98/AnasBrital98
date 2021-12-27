@@ -8,6 +8,9 @@ AI and Math Enthusiast , i’m currently in my Second year of my master degree I
 <center>
 
 <a href="https://www.linkedin.com/in/anasbrital98" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/AnasBrital98">
+<img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=flat-square" alt="Twitter">
+</a>
 <a href="https://www.facebook.com/anasbrital98" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://medium.com/@AnasBrital98" >
 <img src="https://img.shields.io/badge/Medium-lightgrey?logo=medium&?&style=flat-square&logoColor=black" alt="Medium">
