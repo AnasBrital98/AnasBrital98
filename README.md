@@ -12,7 +12,7 @@ AI and Math Enthusiast , i’m currently in my Second year of my master degree I
 <a href="https://medium.com/@AnasBrital98" >
 <img src="https://img.shields.io/badge/Medium-lightgrey?logo=medium&?&style=flat-square&logoColor=black" alt="Medium">
 </a>
-<a href="https://">
+<a href="https://anasbrital98.github.io/">
 <img src="https://img.shields.io/badge/My%20Blog-lightgrey?logo=internetexplorer&style=flat-square&logoColor=white&color=black" alt = "blog">
 </a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anasbrital98)
