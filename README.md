@@ -1,6 +1,6 @@
 
 
-<img src="assets/anas.gif" height = "50px">
+<img src="./Assets/anas.gif" height = "50px">
 
 AI and Math Enthusiast , i’m currently in my Second year of my master degree Intelligent systems and the development of decision-making systems At The Polydisciplinary Faculty Of Larache In Abdelmalek Essaadi University .
 
